@@ -1,5 +1,4 @@
-
-
+//Made by Kacha Parth
 let temprature = document.querySelector(".temp")
 let image= document.querySelector("img")
 let humidityspan=document.querySelector(".humidityvalue")
