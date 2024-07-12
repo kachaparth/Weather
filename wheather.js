@@ -1,4 +1,4 @@
-const n= cities[35975]
+
 
 let temprature = document.querySelector(".temp")
 let image= document.querySelector("img")
