@@ -7,7 +7,7 @@ let windirection=document.querySelector(".windir")
 let nature = document.querySelector(".nature")
 async function tem( p ){
 
-        git 
+  const LINK=`https://api.weatherapi.com/v1/current.json?key=6988433e6fb94462bf052126240707&q=${p}`;
     let response = await fetch(LINK);
     let wheather = await response.json();
 
